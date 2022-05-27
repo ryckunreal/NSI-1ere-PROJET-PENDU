@@ -45,13 +45,13 @@
 1 ● Créer un jeu du pendu fonctionnel -> console Python uniquement 
     ➤ Assigné à :  Camille & Candice 
                    ● Liens Replit pour accéder aux pendus (jouables dans la console)
-                        ➤ https://replit.com/@Calmified/Pendu  (Camille O.)
-                        ➤ https://replit.com/@candice1910/pendu-function-test (Candice D.)
+                        ➤ [LIEN CACHÉ]  (Camille O.)
+                        ➤ [LIEN CACHÉ] (Candice D.)
 
-2 ● Créer un nouveau programme en utlisant PyGame pour créer une interface graphique (réinterprétation du code (de l'étape 1): modifications (ajouts, supressions, ect...) -> mais même principe)
+2 ● Créer un nouveau programme en utlisant PyGame pour créer une interface graphique (réinterprétation du code (de l'étape 1): modifications (ajouts, supressions, etc...) -> mais même principe)
     ➤ Assigné à :  Noah (avec aide de Camille & Candice sur certains points: par exemple -> Camille: difficulté, etc...)
                    ● Liens Replit pour accéder au jeu du pendu (jouable avec interface graphique)
-                        ➤ https://replit.com/@ryckebosch/JeuDuPenduFinalV1 (Noah R.)
+                        ➤ [LIEN CACHÉ] (Noah R.)
                         ➤ [SAUVEGARDE/BACKUP -> compte replit de Camille + disque dur Noah R.]
 
 3 ● Correction des bugs et finilisation du projet (documentation, commentaires etc...)
@@ -69,7 +69,7 @@
   ➤ La longueur du mot est visible (traits blancs)
   ➤ Si la lettre rentrée: 
     ➤ est bonne: la lettre remplace le trait correspondant (à sa place dans le mot)
-    ➤ est fausse: le pendu se 'devoile' au fur et à mesure (à chaque erreur)
+    ➤ est fausse: le pendu se 'dévoile' au fur et à mesure (à chaque erreur)
 
 ● Un menu d'accueil:
   ➤ Mieux pour le joueur (agréabilité du service proposé +++)
@@ -87,7 +87,7 @@
   ➤ Un menu d'accueil:
     ➤ Mieux pour le joueur (agréabilité du service proposé +++)
   ➤ Un jeu à thème:
-    ➤ Le Western (canyon/désert, sheriff, ect...)
+    ➤ Le Western (canyon/désert, sheriff, etc...)
   ➤ Des personnages/items:
     ➤ Le sheriff (explique le but du jeu + réaction lorsque le joueur gagne/perd)
     ➤ Le pendu (qui se dévoile au fur et à mesure, ou pas [si le joueur est FORT])
